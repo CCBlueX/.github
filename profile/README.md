@@ -1,5 +1,3 @@
-<div align="center">
-
 # 👋 Welcome to CCBlueX!
 
 We are a small team of 🚀 developers from Germany with a passion for creating innovative cheats for popular video games. Our primary focus is on the development of LiquidBounce, a popular hacked client for Minecraft 1.8-1.18.2, which has gained a reputation for its superior features and ease of use.
@@ -16,7 +14,7 @@ We also developed LiquidLauncher, an open-source Minecraft launcher designed to 
 
 ### 🛠️ Tools
 
-We also develop useful tools to make life easier for Minecraft server admins. Our rcon_bruteforcer tool is a powerful utility that enables you to brute force RCON passwords, making it easier to manage and control your Minecraft servers.
+We also develop useful tools to make cheating in Minecraft easier. Our tools are designed to help you get the most out of LiquidBounce and other popular hacked clients. 
 
 ## 🤝 Our Contributions
 
@@ -33,5 +31,3 @@ We are always eager to learn new technologies and programming languages to expan
 ## 📱 Stay Connected
 
 To stay up-to-date with our latest projects and developments, be sure to follow us on Twitter [@ccbluex](https://twitter.com/ccbluex) and subscribe to our YouTube channel [CCBlueX](https://www.youtube.com/CCBlueX). We also have a Discord server where you can chat with our team and other Minecraft players. Thank you for visiting CCBlueX! 🙏
-
-</div>
