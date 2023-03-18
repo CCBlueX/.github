@@ -30,4 +30,4 @@ We are always eager to learn new technologies and programming languages to expan
 
 ## 📱 Stay Connected
 
-To stay up-to-date with our latest projects and developments, be sure to follow us on Twitter [@ccbluex](https://twitter.com/ccbluex) and subscribe to our YouTube channel [CCBlueX](https://www.youtube.com/CCBlueX). We also have a Discord server where you can chat with our team and other Minecraft players. Thank you for visiting CCBlueX! 🙏
+To stay up-to-date with our latest projects and developments, be sure to follow us on Twitter [@ccbluex](https://twitter.com/ccbluex) and subscribe to our YouTube channel [CCBlueX](https://www.youtube.com/CCBlueX). We also have a Guilded server where you can chat with our team and other Minecraft players [CCBlueX Guilded](https://www.guilded.gg/CCBlueX), and a forum [CCBlueX Forums](https://forums.ccbluex.net/) where you can discuss and share your experiences with LiquidBounce and other hacked clients. Thank you for visiting CCBlueX! 🙏
