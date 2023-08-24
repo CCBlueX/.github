@@ -1,6 +1,6 @@
 # 👋 Welcome to CCBlueX!
 
-We are a small team of 🚀 developers from Germany with a passion for creating innovative cheats for popular video games. Our primary focus is on the development of LiquidBounce, a popular hacked client for Minecraft 1.8-1.19.X, which has gained a reputation as a favorite among Minecraft cheaters worldwide. With superior features and ease of use, LiquidBounce is the perfect tool to give you the upper hand in Minecraft gameplay.
+We are a small team of 🚀 developers from Germany with a passion for creating innovative cheats for popular video games. Our primary focus is on the development of LiquidBounce, a popular hacked client for Minecraft 1.8-1.20.X, which has gained a reputation as a favorite among Minecraft cheaters worldwide. With superior features and ease of use, LiquidBounce is the perfect tool to give you the upper hand in Minecraft gameplay.
 
 ## 🚀 Our Projects
 
