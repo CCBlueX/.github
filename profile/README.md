@@ -1,33 +1,58 @@
-# 👋 Welcome to CCBlueX!
+# Welcome to CCBlueX
 
-We are a dedicated team of developers from Germany with a passion for creating innovative tools and cheats for popular video games. Our primary focus is on LiquidBounce, a highly popular hacked client for Minecraft 1.8-1.20.X that has become a favorite among Minecraft players worldwide. With its superior features and ease of use, LiquidBounce is the perfect tool to give you the upper hand in Minecraft gameplay.
+We are a team of developers from Germany focused on creating game hacks and utilities. Our projects aim to provide players with powerful features, customization options, and unique ways to dominate the game. Whether you're looking for advanced cheats or ways to bypass restrictions, we've got you covered.
 
-## 🚀 Our Projects
+---
 
-### 🔵 LiquidBounce
-LiquidBounce is our flagship project, a powerful and versatile Minecraft hacked client that offers bypasses and full customization. With features like X-Ray, KillAura and Fly to help you dominate the game effortlessly.
+## Our Hacks
 
-### 🚀 LiquidLauncher
-We've also developed LiquidLauncher, an open-source Minecraft launcher that simplifies managing and launching different versions of LiquidBounce. LiquidLauncher makes it easy to switch between various LiquidBounce versions and manage mods, ensuring they are always supported. You can also add your own custom mods with ease, making it the perfect tool for modded Minecraft cheaters.
+### [LiquidBounce](https://liquidbounce.net/)
+LiquidBounce is a free and open-source hacked client for Minecraft, built on the **Fabric** mod loader. It supports versions from 1.8 to 1.21.4 and offers a wide range of features for players who want to dominate on every server:
 
-### 💼 LiquidProxy
-**LiquidProxy** is our latest product designed to enhance your cheating experience. Say goodbye to the hassle of finding a working VPN for your server or dealing with static IP addresses. LiquidProxy integrates seamlessly with LiquidBounce and many other clients, including Vanilla Minecraft, allowing you to bypass any IP ban in seconds.
+- KillAura, X-Ray, Fly, and more.
+- Customizable Custom HUD system
+- Web GUI
+- JavaScript API for creating and sharing custom modules.
 
-Sign up now at [LiquidProxy](https://liquidproxy.net/).
+---
 
-### 🛠️ Tools
-We also create a variety of tools to enhance your cheating experience in Minecraft. Our tools are designed to work seamlessly with LiquidBounce and other popular hacked clients, helping you get the most out of your gameplay.
+### [LiquidLauncher](https://github.com/CCBlueX/LiquidLauncher)
+LiquidLauncher is the official launcher for LiquidBounce, designed to make managing the client as simple as possible. It includes:
 
-## 🤝 Our Contributions
-Beyond our own projects, we contribute to various open-source projects and support other developers in their endeavors. Our team is proficient in a range of programming languages, including:
+- Automatic updates
+- Support for nightly builds and stable releases.
+- Seamless integration with third-party mods.
 
-- 🦀 Rust
-- 🎯 Kotlin
-- ☕ Java
-- 🌐 JavaScript
-- 🔍 Svelte
+---
 
-We are always eager to learn new technologies and programming languages to keep innovating and tackling new challenges.
+### [LiquidProxy](https://liquidproxy.net/)
+LiquidProxy is a proxy service designed to bypass IP bans and ensure uninterrupted gameplay. Unlike traditional VPNs, LiquidProxy integrates seamlessly with LiquidBounce and Vanilla Minecraft, providing a reliable solution tailored specifically for Minecraft servers.
 
-## 📱 Stay Connected
-Keep up with our latest projects and developments by following us on Twitter [@ccbluex](https://twitter.com/ccbluex) and subscribing to our YouTube channel [CCBlueX](https://www.youtube.com/CCBlueX). Join our community on [Discord](https://liquidbounce.net/discord), chat with our team and other Minecraft players on our [Guilded server](https://www.guilded.gg/CCBlueX), and visit our [forums](https://forums.ccbluex.net/) to share your experiences and discuss all things LiquidBounce. 
+---
+
+## Open-Source Contributions
+
+At CCBlueX, we actively contribute to open-source projects and encourage collaboration from developers worldwide. Our expertise spans multiple programming languages:
+
+<div>
+  <img src="https://img.shields.io/badge/-Rust-000?logo=rust&logoColor=white" alt="Rust">
+  <img src="https://img.shields.io/badge/-Kotlin-7F52FF?logo=kotlin&logoColor=white" alt="Kotlin">
+  <img src="https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/-Svelte-FF3E00?logo=svelte&logoColor=white" alt="Svelte">
+</div>
+
+We welcome contributions from developers who want to help us build innovative gaming tools and software.
+
+---
+
+## Stay Connected
+
+Follow us on our socials to stay updated on our latest developments:
+
+<div>
+  <a href="https://twitter.com/ccbluex"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white" alt="Twitter"></a>
+  <a href="https://www.youtube.com/CCBlueX"><img src="https://img.shields.io/badge/-YouTube-FF0000?logo=youtube&logoColor=white" alt="YouTube"></a>
+  <a href="https://liquidbounce.net/discord"><img src="https://img.shields.io/badge/-Discord-5865F2?logo=discord&logoColor=white" alt="Discord"></a>
+</div>
+
