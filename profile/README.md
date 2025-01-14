@@ -4,7 +4,7 @@ We are a team of developers from Germany focused on creating game hacks and util
 
 ---
 
-## Our Hacks
+## Our Projects
 
 ### [LiquidBounce](https://liquidbounce.net/)
 LiquidBounce is a free and open-source hacked client for Minecraft, built on the **Fabric** mod loader. It supports versions from 1.8 to 1.21.4 and offers a wide range of features for players who want to dominate on every server:
