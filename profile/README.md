@@ -74,6 +74,7 @@ A Minecraft mod. Puts top hats on creepers.
 | [@NurMarvin](https://github.com/NurMarvin) | Frontend Developer |
 | [@benjarobbi](https://github.com/benjarobbi) | Server Administrator |
 | [@scorpion3013](https://github.com/scorpion3013) | Customer Support |
+| [@NULLYUKI](https://github.com/NULLYUKI) | Customer Support |
 
 ---
 
